@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0792-binary-search](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0792-binary-search](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0792-binary-search) |
 ## Stack
 |  |
 | ------- |
