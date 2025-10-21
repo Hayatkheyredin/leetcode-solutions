@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0682-baseball-game](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0682-baseball-game) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Counting Sort
 |  |
