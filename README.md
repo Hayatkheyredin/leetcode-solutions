@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -127,11 +128,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0169-majority-element) |
 ## Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
@@ -147,9 +150,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0112-path-sum) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
