@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [2502-sort-the-people](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2502-sort-the-people) |
 ## Trie
 |  |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Memoization
 |  |
 | ------- |
