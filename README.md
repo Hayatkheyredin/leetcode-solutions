@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0067-add-binary) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0682-baseball-game](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0682-baseball-game) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0118-pascals-triangle) |
