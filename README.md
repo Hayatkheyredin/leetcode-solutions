@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0075-sort-colors) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0079-word-search) |
 ## Geometry
 |  |
