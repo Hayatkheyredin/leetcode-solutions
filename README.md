@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0079-word-search) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0087-scramble-string](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0087-scramble-string) |
 | [0118-pascals-triangle](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0118-pascals-triangle) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [1323-maximum-69-number](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1323-maximum-69-number) |
 ## Sliding Window
 |  |
