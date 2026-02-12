@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0079-word-search) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0087-scramble-string](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0087-scramble-string) |
 | [0097-interleaving-string](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0097-interleaving-string) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0079-word-search) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Merge Sort
