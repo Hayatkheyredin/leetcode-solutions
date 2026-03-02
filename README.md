@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0268-missing-number) |
+| [0397-integer-replacement](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0397-integer-replacement) |
 ## Simulation
 |  |
 | ------- |
@@ -332,11 +333,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0087-scramble-string) |
 | [0097-interleaving-string](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0397-integer-replacement](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0397-integer-replacement) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0397-integer-replacement](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0397-integer-replacement) |
 ## Greedy
 |  |
 | ------- |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0055-jump-game) |
+| [0397-integer-replacement](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0397-integer-replacement) |
 | [1323-maximum-69-number](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1323-maximum-69-number) |
 ## Sliding Window
 |  |
