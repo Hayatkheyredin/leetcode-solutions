@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0874-walking-robot-simulation](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [2058-concatenation-of-array](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2058-concatenation-of-array) |
+| [2069-walking-robot-simulation-ii](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2069-walking-robot-simulation-ii) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2257-count-unguarded-cells-in-the-grid) |
 ## Heap (Priority Queue)
@@ -435,4 +436,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0175-combine-two-tables) |
+## Design
+|  |
+| ------- |
+| [2069-walking-robot-simulation-ii](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2069-walking-robot-simulation-ii) |
 <!---LeetCode Topics End-->
