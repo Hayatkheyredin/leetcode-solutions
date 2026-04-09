@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0474-ones-and-zeroes](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0682-baseball-game](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0792-binary-search) |
 | [0874-walking-robot-simulation](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0874-walking-robot-simulation) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0474-ones-and-zeroes](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [2502-sort-the-people](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2502-sort-the-people) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0397-integer-replacement](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0397-integer-replacement) |
+| [0474-ones-and-zeroes](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Memoization
