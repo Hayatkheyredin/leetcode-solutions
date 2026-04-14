@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1513-number-of-substrings-with-only-1s) |
 | [2502-sort-the-people](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2502-sort-the-people) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0268-missing-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1323-maximum-69-number](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1323-maximum-69-number) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1513-number-of-substrings-with-only-1s) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
 ## Two Pointers
 |  |
