@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2502-sort-the-people) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1513-number-of-substrings-with-only-1s) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Two Pointers
 |  |
 | ------- |
