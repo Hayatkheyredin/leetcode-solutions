@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2502-sort-the-people](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2502-sort-the-people) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2615-sum-of-distances](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2502-sort-the-people](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2502-sort-the-people) |
+| [2615-sum-of-distances](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -474,4 +476,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2069-walking-robot-simulation-ii](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2069-walking-robot-simulation-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [2615-sum-of-distances](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2615-sum-of-distances) |
 <!---LeetCode Topics End-->
