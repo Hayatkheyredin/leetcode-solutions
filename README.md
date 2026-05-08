@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2502-sort-the-people) |
 | [2615-sum-of-distances](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1513-number-of-substrings-with-only-1s](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1513-number-of-substrings-with-only-1s) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Two Pointers
 |  |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Binary Tree
 |  |
 | ------- |
@@ -500,4 +504,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+## Number Theory
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 <!---LeetCode Topics End-->
