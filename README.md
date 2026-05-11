@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2058-concatenation-of-array](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2502-sort-the-people](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2502-sort-the-people) |
 | [2615-sum-of-distances](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Breadth-First Search
 |  |
@@ -380,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## String Matching
 |  |
 | ------- |
@@ -391,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Dynamic Programming
 |  |
 | ------- |
