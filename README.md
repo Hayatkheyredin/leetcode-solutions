@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1513-number-of-substrings-with-only-1s) |
+| [1871-jump-game-vii](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2502-sort-the-people](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2502-sort-the-people) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1340-jump-game-v) |
+| [1871-jump-game-vii](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [1931-painting-a-grid-with-three-different-colors](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1931-painting-a-grid-with-three-different-colors) |
 | [2463-minimum-total-distance-traveled](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [1871-jump-game-vii](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1871-jump-game-vii) |
 ## Backtracking
 |  |
 | ------- |
@@ -536,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1871-jump-game-vii](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2615-sum-of-distances](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2615-sum-of-distances) |
 ## Union-Find
