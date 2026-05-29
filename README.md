@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1513-number-of-substrings-with-only-1s) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
