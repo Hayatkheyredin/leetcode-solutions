@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3161-block-placement-queries](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2540-minimum-common-value](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2540-minimum-common-value) |
+| [3161-block-placement-queries](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3161-block-placement-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Stack
 |  |
@@ -552,4 +554,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3161-block-placement-queries) |
+## Segment Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
