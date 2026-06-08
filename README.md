@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0155-min-stack](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0682-baseball-game) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sorting
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0155-min-stack) |
 | [2069-walking-robot-simulation-ii](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2069-walking-robot-simulation-ii) |
 ## Prefix Sum
 |  |
