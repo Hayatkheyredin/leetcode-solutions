@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0682-baseball-game) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sorting
 |  |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0349-intersection-of-two-arrays](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2540-minimum-common-value) |
 ## Counting Sort
