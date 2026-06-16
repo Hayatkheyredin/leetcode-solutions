@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Trie
 |  |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [3612-process-string-with-special-operations-i](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3838-weighted-word-mapping](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Heap (Priority Queue)
