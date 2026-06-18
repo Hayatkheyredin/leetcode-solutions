@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0268-missing-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1323-maximum-69-number](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1323-maximum-69-number) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1513-number-of-substrings-with-only-1s) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
