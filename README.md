@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3838-weighted-word-mapping](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2833-furthest-point-from-origin](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0169-majority-element) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -543,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -568,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2615-sum-of-distances](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2615-sum-of-distances) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -584,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3161-block-placement-queries) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
 |  |
 | ------- |
