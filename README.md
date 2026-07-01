@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3161-block-placement-queries](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2540-minimum-common-value](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2540-minimum-common-value) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3161-block-placement-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Stack
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0451-sort-characters-by-frequency](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Binary Tree
 |  |
@@ -545,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2257-count-unguarded-cells-in-the-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Merge Sort
 |  |
@@ -581,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Number Theory
 |  |
 | ------- |
