@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3161-block-placement-queries](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3161-block-placement-queries) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0451-sort-characters-by-frequency](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Binary Tree
 |  |
@@ -550,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Merge Sort
 |  |
@@ -604,4 +608,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Hayatkheyredin/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
